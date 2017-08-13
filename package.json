@@ -1,0 +1,16 @@
+{
+  "name": "canva-editor",
+  "version": "1.0.0",
+  "description": "creacion de imagenes por medio de un editor canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canva",
+    "angular",
+    "node"
+  ],
+  "author": "podmaxs",
+  "license": "MIT"
+}
